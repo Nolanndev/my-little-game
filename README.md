@@ -1,1 +1,1 @@
-# my-littl-game
+# my-little-game
